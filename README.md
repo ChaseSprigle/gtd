@@ -1,16 +1,12 @@
 # gtd
+This is a very early revision of a productivity program based on the ideas in Getting Things Done by David Allen. I'm not entirely sure how serious I intend to take this project just yet. I just wanted a way to keep track of things I have to do in a form that I'm able to customize (and learn a little flutter in the process). Currently, the repository is in a rough draft-like state. I rushed putting it together because I wanted to start using it, so the code is pretty rough at the moment.
 
-A new Flutter project.
+# Features
+- [X] Inbox to record obligations as they appear
+- [X] Tab to create projects and tasks for the projects
+- [ ] A list of next actions for each project
+- [ ] A calendar where tasks can be scheduled
+- [ ] Sync to cloud (don't hold your breath for this)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contributions
+Feel free to contribute to the project. I'm very new to dart/flutter, and, accordingly, the code is a complete mess. Any suggestions for how to improve the codebase are very appreciated.
